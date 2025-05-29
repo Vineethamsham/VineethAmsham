@@ -1,6 +1,6 @@
 # Hi, I'm Vineeth Amsham 👋
 
-🎓 MS in Computer Science | 🧠 Machine Learning Engineer | ☁️ AWS & Azure Cloud Practitioner  
+🎓 MS in Computer Science | 🧠 Machine Learning Engineer | ☁️ AWS Cloud Practitioner  & AWS AI practitioner. 
 👨‍💻 Passionate about building scalable AI solutions using ML, NLP, and Generative AI.
 
 ---
